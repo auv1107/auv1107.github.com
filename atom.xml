@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[东边树影]]></title>
+  <link href="http://auv1107.github.com/atom.xml" rel="self"/>
+  <link href="http://auv1107.github.com/"/>
+  <updated>2012-12-20T22:03:18+08:00</updated>
+  <id>http://auv1107.github.com/</id>
+  <author>
+    <name><![CDATA[Scott]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
