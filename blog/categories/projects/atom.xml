@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Projects | 东边树影]]></title>
+  <link href="http://auv1107.github.com/blog/categories/projects/atom.xml" rel="self"/>
+  <link href="http://auv1107.github.com/"/>
+  <updated>2013-02-19T22:05:25+08:00</updated>
+  <id>http://auv1107.github.com/</id>
+  <author>
+    <name><![CDATA[Scott]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开始工作，第一个project-字符界面下的视频通讯]]></title>
+    <link href="http://auv1107.github.com/blog/2013/01/08/kai-shi-gong-zuo-%2Cdi-%5B%3F%5D-ge-project-zi-fu-jie-mian-xia-de-shi-pin-tong-xun/"/>
+    <updated>2013-01-08T23:20:00+08:00</updated>
+    <id>http://auv1107.github.com/blog/2013/01/08/kai-shi-gong-zuo-,di-[?]-ge-project-zi-fu-jie-mian-xia-de-shi-pin-tong-xun</id>
+    <content type="html"><![CDATA[<h2>利用这段一些零零碎碎的时间，开始我设想已久的项目吧</h2>
+
+<h3>项目描述</h3>
+
+<h2>基本功能:</h2>
+
+<p>实现在字符界面下的视频聊天，图像完全使用字符组建而成。
+可进行最简单的文字聊天</p>
+
+<h2>扩展功能:</h2>
+
+<p>语音通讯功能
+文件传送功能</p>
+
+<h3>吐口水</h3>
+
+<h2>口水是喷向自己的。 </h2>
+
+<p>在被自己无数的借口推迟了这个项目后，终于决定要开始项目的学习和完成。    <br/>
+最近也是面临着比较多的事情，一方面这些天正在进行期末考试，12天6门。另一方面，考完试就要立刻踏上4天3班火车的回家之旅。     <br/>
+本来计划是在假期利用一个较为集中的时间进行学习，最后考虑到一些其它动因不得不提前进行。 虽然是无奈之举，但我对此抱有积极的心态。希望最终的结果能达到我心中的目标。</p>
+
+<p>在下面我会做一些记录。记录从今天到项目完成的一些经历，以此为借鉴。</p>
+]]></content>
+  </entry>
+  
+</feed>
